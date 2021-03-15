@@ -1,0 +1,25 @@
+{
+  "name": "tds-reacttablewrapper",
+  "version": "1.0.10",
+  "description": "A wrapper around react-table with context menu and column chooser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhanaTontanahal/TdsReactTable.git"
+  },
+  "keywords": [
+    "reacttable",
+    "react-table-context-menu",
+    "react-table-column",
+    "chooser"
+  ],
+  "author": "DhanaTontanahal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DhanaTontanahal/TdsReactTable/issues"
+  },
+  "homepage": "https://github.com/DhanaTontanahal/TdsReactTable#readme"
+}
